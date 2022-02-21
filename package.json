@@ -1,11 +1,13 @@
 {
   "name": "empl_manager_back_end",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  },/**
+     * this is the constructor
+     */
   "repository": {
     "type": "git",
     "url": "git+https://github.com/barosanuemailtest/EmplManagerBackEnd.git"
@@ -29,5 +31,8 @@
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2"
+    
   }
+  
 }
+
